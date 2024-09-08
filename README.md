@@ -20,7 +20,7 @@
 </br>
 <h3 align="left">What's up</h3>
 
-- 🔭 I’m currently working on **Personal Portfolio Website**
+- 🔭 I’m currently working on **ICE Eddict (a local dessert store)**
 
 - 🌱 I’m currently learning **Next.js and React**
 
